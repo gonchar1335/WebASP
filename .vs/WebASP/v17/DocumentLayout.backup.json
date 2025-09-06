@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{477E97FB-C7A8-1D6E-B302-67A2EE683385}|WebEndPoints\\WebEndPoints.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webendpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477E97FB-C7A8-1D6E-B302-67A2EE683385}|WebEndPoints\\WebEndPoints.csproj|solutionrelative:webendpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC73BB81-6B31-42AC-8C2E-DBC05C000DAE}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC73BB81-6B31-42AC-8C2E-DBC05C000DAE}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEBD2DC-3736-4539-B0A7-F5EFB939FFC0}|WebMiddleware\\WebMiddleware.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEBD2DC-3736-4539-B0A7-F5EFB939FFC0}|WebMiddleware\\WebMiddleware.csproj|solutionrelative:webmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 532,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebAppMVC\\Program.cs",
+              "RelativeToolTip": "WebAppMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:37:24.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "WebMiddleware\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMiddleware\\Program.cs",
+              "RelativeToolTip": "WebMiddleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:37:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEndPoints\\Program.cs",
+              "RelativeDocumentMoniker": "WebEndPoints\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEndPoints\\Program.cs",
+              "RelativeToolTip": "WebEndPoints\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:35:49.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 213,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
