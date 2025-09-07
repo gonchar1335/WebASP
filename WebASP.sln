@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMiddleware", "WebMiddlew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEndPoints", "WebEndPoints\WebEndPoints.csproj", "{477E97FB-C7A8-1D6E-B302-67A2EE683385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCCource", "WebMVCCource\WebMVCCource.csproj", "{9C4162C8-8706-42E5-A1EB-40668A67B7C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{477E97FB-C7A8-1D6E-B302-67A2EE683385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{477E97FB-C7A8-1D6E-B302-67A2EE683385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{477E97FB-C7A8-1D6E-B302-67A2EE683385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4162C8-8706-42E5-A1EB-40668A67B7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4162C8-8706-42E5-A1EB-40668A67B7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4162C8-8706-42E5-A1EB-40668A67B7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4162C8-8706-42E5-A1EB-40668A67B7C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

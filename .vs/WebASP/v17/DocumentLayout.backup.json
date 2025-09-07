@@ -3,25 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{477E97FB-C7A8-1D6E-B302-67A2EE683385}|WebEndPoints\\WebEndPoints.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webendpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{477E97FB-C7A8-1D6E-B302-67A2EE683385}|WebEndPoints\\WebEndPoints.csproj|solutionrelative:webendpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC73BB81-6B31-42AC-8C2E-DBC05C000DAE}|WebAppMVC\\WebAppMVC.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC73BB81-6B31-42AC-8C2E-DBC05C000DAE}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CEBD2DC-3736-4539-B0A7-F5EFB939FFC0}|WebMiddleware\\WebMiddleware.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CEBD2DC-3736-4539-B0A7-F5EFB939FFC0}|WebMiddleware\\WebMiddleware.csproj|solutionrelative:webmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\AppData\\Local\\Temp\\84b92f93-d2d9-45b9-abba-254d19f3e045_CSharpWebASP-1118-master.zip.045\\CSharpWebASP-1118-master\\WebMVCCourse\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 532,
+          "DockedWidth": 474,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -33,61 +48,130 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebAppMVC\\Program.cs",
-              "RelativeDocumentMoniker": "WebAppMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebAppMVC\\Program.cs",
-              "RelativeToolTip": "WebAppMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:37:24.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMiddleware\\Program.cs",
-              "RelativeDocumentMoniker": "WebMiddleware\\Program.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMiddleware\\Program.cs",
-              "RelativeToolTip": "WebMiddleware\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:37:11.998Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEndPoints\\Program.cs",
-              "RelativeDocumentMoniker": "WebEndPoints\\Program.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEndPoints\\Program.cs",
-              "RelativeToolTip": "WebEndPoints\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Program.cs",
+              "RelativeToolTip": "WebMVCCource\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:35:49.816Z",
+              "WhenOpened": "2025-09-07T11:50:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Models\\Course.cs",
+              "RelativeToolTip": "WebMVCCource\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:54:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebMVCCource\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:53:11.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\Student.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Controllers\\Student.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\Student.cs",
+              "RelativeToolTip": "WebMVCCource\\Controllers\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:48:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T11:39:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebMVCCource\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwF0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:38:56.455Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 213,
+          "DockedWidth": 78,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "50ce1354-a8d6-42eb-bbce-c0de54583382",
+        "Display": 1,
+        "X": 715,
+        "Y": 55,
+        "Width": 1210,
+        "Height": 982,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\AppData\\Local\\Temp\\84b92f93-d2d9-45b9-abba-254d19f3e045_CSharpWebASP-1118-master.zip.045\\CSharpWebASP-1118-master\\WebMVCCourse\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\84b92f93-d2d9-45b9-abba-254d19f3e045_CSharpWebASP-1118-master.zip.045\\CSharpWebASP-1118-master\\WebMVCCourse\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Anton\\AppData\\Local\\Temp\\84b92f93-d2d9-45b9-abba-254d19f3e045_CSharpWebASP-1118-master.zip.045\\CSharpWebASP-1118-master\\WebMVCCourse\\Controllers\\StudentController.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\84b92f93-d2d9-45b9-abba-254d19f3e045_CSharpWebASP-1118-master.zip.045\\CSharpWebASP-1118-master\\WebMVCCourse\\Controllers\\StudentController.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:31:07.537Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             }
           ]
         }
