@@ -25,7 +25,6 @@ namespace WebMVCCource.Filters
             }
             if (dict.TryGetValue(controllerName, out int count))
                 context.HttpContext.Response.Headers["X-Controller-Requests"] = count.ToString();
-            //context.HttpContext.Response.Headers.Add("X-Controller-Requests", dict[context.Controller.GetType().Name].ToString());
         }
     }
 }
