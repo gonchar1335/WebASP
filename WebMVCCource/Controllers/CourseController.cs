@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebMVCCource.Models;
-
+using WebMVCCource.Filters;
 
 namespace WebMVCCource.Controllers
 {
+    [CustomHeaderResultFilter]
     public class CourseController : Controller
     {
         public IActionResult Index()

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebMVCCource.Models;
 
 namespace WebMVCCource.Controllers
 {
@@ -13,7 +14,7 @@ namespace WebMVCCource.Controllers
             return View(Student.All);
         }
 
-        [Route("searchPerson/{search}")]
+        [Route("searchPerson/{search:minlength(3)}")]
         public IActionResult Search(string search)
         {
             return View("Index", Student.All.Where(c => c.Name.Contains(search, StringComparison.OrdinalIgnoreCase)));
