@@ -51,8 +51,19 @@ namespace WebMVCCource.Controllers
         {
             try
             {
-                Student.All.Add(student);
-                return RedirectToAction(nameof(Index));
+                if (student.Id <= Student.All.Select(c => c.Id).Max())
+                    ModelState.AddModelError("Id", "Id less or equal then max id");
+                if (this.ModelState.IsValid)
+                {
+                    Student.All.Add(student);
+                    //string message = $"New Student added: {student.Name}";
+                    //this.TempData["message"] = message;
+                    return RedirectToAction(nameof(Index));
+                }
+                else
+                {
+                    return View(student);
+                }
             }
             catch
             {
@@ -64,17 +75,23 @@ namespace WebMVCCource.Controllers
         [Route("edit/{id:int}")]
         public ActionResult Edit(int id)
         {
-            return View();
+            var student = Student.All.Where(s=>s.Id == id).SingleOrDefault();
+            if (student == null) return NotFound();
+            return View(student);
         }
 
         // POST: StudentController/Edit/5
         [HttpPost]
         [Route("edit/{id:int}")]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult Edit(int id, Student student)
         {
             try
             {
+                var oldStudent = Student.All.Where(s=>s.Id == student.Id).SingleOrDefault();
+                if (oldStudent == null) return NotFound();
+                oldStudent.Id = student.Id;
+                oldStudent.Age = student.Age;
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -94,10 +111,11 @@ namespace WebMVCCource.Controllers
         [HttpPost]
         [Route("delete/{id:int}")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult Delete(int id, Student student)
         {
             try
             {
+                Student.All.Remove(student);
                 return RedirectToAction(nameof(Index));
             }
             catch

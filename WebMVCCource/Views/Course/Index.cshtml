@@ -5,10 +5,15 @@
 }
 
 <h1>Index</h1>
-
+<h2>Actual time: @ViewData["Year"]</h2>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<form asp-action="filter">
+    <input type="search" name="search" value="@ViewBag.CourseSearchPattern"/>
+    <input type="submit" value="Search" class="btn btn-primary" />
+</form>
 <table class="table">
     <thead>
         <tr>

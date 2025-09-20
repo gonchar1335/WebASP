@@ -5,10 +5,12 @@
 }
 
 <h1>Index</h1>
-
+<h2>@TempData["message"]</h2>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+@Html.DisplaySelect(Model)
 <table class="table">
     <thead>
         <tr>

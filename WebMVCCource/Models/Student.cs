@@ -1,14 +1,21 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebMVCCource.Attributes;
 
 namespace WebMVCCource.Models
 {
+    
     public class Student
     {
-
-        public int Id { get; set; }
+        [Required]
+        public int? Id { get; set; }
+        [RegularExpression("^[A-Z][a-z]*$", ErrorMessage = "Name must First char Upper, next char Lower")]
+        [StringLength(maximumLength: 200, MinimumLength = 3, ErrorMessage = "Title length should be >= 3")]
         public string Name { get; set; }
-
+        [Range(18, 120, ErrorMessage = "Student duration should in [18, 120]")]
         public int? Age { get; set; }
+        
+        [AddressVerification(ErrorMessage = "The address must consist of three parts separated by commas")]
+        public string Address { get; set; } //(.+),(.+),(.+)
 
         public static IList<Student> All = new List<Student>()
         {
@@ -27,6 +34,7 @@ namespace WebMVCCource.Models
             Id = id;
             Name = name;
             Age = age;
+            Address = address;  
         }
     }
 }

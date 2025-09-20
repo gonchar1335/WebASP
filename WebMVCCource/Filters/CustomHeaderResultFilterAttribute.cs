@@ -8,8 +8,6 @@ namespace WebMVCCource.Filters
         public static Dictionary<string, int> dict = new Dictionary<string, int>();      
         public void OnResultExecuted(ResultExecutedContext context)
         {
-            
-            
         }
 
         public void OnResultExecuting(ResultExecutingContext context)
@@ -24,7 +22,7 @@ namespace WebMVCCource.Filters
                 dict[controllerName] = 1;
             }
             if (dict.TryGetValue(controllerName, out int count))
-                context.HttpContext.Response.Headers["X-Controller-Requests"] = count.ToString();
+                context.HttpContext.Response.Headers["X-Controller-Requests"] =  count.ToString();
         }
     }
 }

@@ -1,9 +1,15 @@
-﻿namespace WebMVCCource.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace WebMVCCource.Models
 {
     public class Course
     {
         public int Id { get; set; }
-        public string Title { get; set; }
+        [Required(ErrorMessage = "Title should not be empty")]
+        [StringLength(maximumLength: 64, MinimumLength = 4, ErrorMessage = "Title length should be >= 4")]
+        public string? Title { get; set; }
+        [Range(8,48, ErrorMessage = "Course duration should in [8,48]")]
+
         public int Duration { get; set; }
         public static IList<Course> All { get; set; }
         static Course()
@@ -17,6 +23,8 @@
                 new Course(6,"GIT", 16),
             };
         }
+
+        public Course() { }
 
         public Course(int id, string title, int duration)
         {

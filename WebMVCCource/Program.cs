@@ -3,6 +3,8 @@ using WebMVCCource.Filters;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddSession();
 builder.Services.AddControllersWithViews();
 builder.Services.AddMvc(options => {
     options.Filters.Add(typeof(CustomHeaderResultFilterAttribute));
@@ -19,10 +21,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseSession();
 app.MapStaticAssets();
 
 
-app.MapControllers();
+
 
 //app.MapControllerRoute(
 //    name: "search",
@@ -34,5 +37,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+app.MapControllers();
 
 app.Run();
