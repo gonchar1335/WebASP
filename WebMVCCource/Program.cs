@@ -26,8 +26,7 @@ app.MapStaticAssets();
 
 
 
-
-//app.MapControllerRoute(
+ //app.MapControllerRoute(
 //    name: "search",
 //    pattern: "search/{search}",
 //    defaults: new { controller = "Course", action = "Search" });

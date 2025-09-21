@@ -2,7 +2,7 @@
 
 namespace WebMVCCource.Models
 {
-    public class Course
+    public class Course: IValidatableObject
     {
         public int Id { get; set; }
         [Required(ErrorMessage = "Title should not be empty")]
@@ -31,6 +31,14 @@ namespace WebMVCCource.Models
             Id = id;
             Title = title;
             Duration = duration;
+        }
+
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            if (Id < 0)
+                yield return new ValidationResult("id < 0");
+            if (Duration % 8 != 0)
+                yield return new ValidationResult("duration % 8 != 0 invalid");
         }
     }
 
