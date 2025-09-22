@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCStudentDaoService", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEFC", "WebEFC\WebEFC.csproj", "{51ECE4C8-CC2D-4F30-947C-077E1324499F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEFCStudent", "WebEFCStudent\WebEFCStudent.csproj", "{6E8856FB-F233-420C-A2DC-5F3A2029450D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{51ECE4C8-CC2D-4F30-947C-077E1324499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51ECE4C8-CC2D-4F30-947C-077E1324499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51ECE4C8-CC2D-4F30-947C-077E1324499F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

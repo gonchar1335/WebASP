@@ -1,7 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using System.Text;
 using WebEFCStudent;
 
-namespace WebEFC
+
+namespace WebEFCStudent
 {
     public class Program
     {
@@ -44,3 +46,7 @@ namespace WebEFC
         }
     }
 }
+
+
+
+

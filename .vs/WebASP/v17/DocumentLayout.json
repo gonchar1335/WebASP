@@ -1,15 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\attributes\\addressverificationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\attributes\\addressverificationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ECE4C8-CC2D-4F30-947C-077E1324499F}|WebEFC\\WebEFC.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webefc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ECE4C8-CC2D-4F30-947C-077E1324499F}|WebEFC\\WebEFC.csproj|solutionrelative:webefc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 1534,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:36:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:36:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T12:36:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebMVCCource\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAApwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:35:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressVerificationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Attributes\\AddressVerificationAttribute.cs",
+              "RelativeDocumentMoniker": "WebMVCCource\\Attributes\\AddressVerificationAttribute.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Attributes\\AddressVerificationAttribute.cs",
+              "RelativeToolTip": "WebMVCCource\\Attributes\\AddressVerificationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:35:09.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEFC\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "WebEFC\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEFC\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "WebEFC\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:35:23.47Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,7 +8,6 @@ namespace WebMVCCource.Attributes
         public override bool IsValid(object? value)
         {
             string? address = value!.ToString();
-
             return Regex.IsMatch(address!, "(.+),(.+),(.+)");
         }
     }

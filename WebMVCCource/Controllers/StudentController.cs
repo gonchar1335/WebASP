@@ -92,6 +92,7 @@ namespace WebMVCCource.Controllers
                 if (oldStudent == null) return NotFound();
                 oldStudent.Id = student.Id;
                 oldStudent.Age = student.Age;
+                oldStudent.Name = student.Name;
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -104,7 +105,9 @@ namespace WebMVCCource.Controllers
         [Route("delete/{id:int}")]
         public ActionResult Delete(int id)
         {
-            return View();
+            var student = Student.All.Where(s => s.Id == id).SingleOrDefault();
+            if (student == null) return NotFound();
+            return View(student);
         }
 
         // POST: StudentController/Delete/5
@@ -115,7 +118,9 @@ namespace WebMVCCource.Controllers
         {
             try
             {
-                Student.All.Remove(student);
+                var st = Student.All.Where(s => s.Id == id).SingleOrDefault();
+                if (st == null) return NotFound();
+                Student.All.Remove(st);
                 return RedirectToAction(nameof(Index));
             }
             catch
