@@ -40,6 +40,7 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoi
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.AssemblyInfo.cs
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.csproj.CoreCompileInputs.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.sourcelink.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -54,4 +55,3 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\refint\We
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.pdb
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.genruntimeconfig.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\ref\WebEndPoints.dll
-C:\Users\Anton\source\repos\CSharpWebAsp\WebEndPoints\obj\Debug\net9.0\WebEndPoints.sourcelink.json

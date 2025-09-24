@@ -12,6 +12,7 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddl
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.AssemblyInfo.cs
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.csproj.CoreCompileInputs.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.sourcelink.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -26,4 +27,3 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\refint\W
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.pdb
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.genruntimeconfig.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\ref\WebMiddleware.dll
-C:\Users\Anton\source\repos\CSharpWebAsp\WebMiddleware\obj\Debug\net9.0\WebMiddleware.sourcelink.json

@@ -20,7 +20,7 @@ namespace WebMVCCource.Controllers
         {
             this.HttpContext.Session.SetString("courseSearchPatter", search);
             this.ViewBag.CourseSearchPattern = search ?? "";
-            return View("Index", Course.All.Where(c => c.Title.Contains(search, StringComparison.OrdinalIgnoreCase)));
+            return View("Index", Course.All.Where(c => c.Title!.Contains(search!, StringComparison.OrdinalIgnoreCase)));
         }
 
         public IActionResult ListJSON() 
@@ -33,7 +33,7 @@ namespace WebMVCCource.Controllers
         {
             this.HttpContext.Session.SetString("courseSearchPattern", search);
             this.ViewBag.CourseSearchPattern = search ?? "";
-            return View("Index", Course.All.Where(c => c.Title.Contains(search, StringComparison.OrdinalIgnoreCase)));
+            return View("Index", Course.All.Where(c => c.Title!.Contains(search!, StringComparison.OrdinalIgnoreCase)));
         }
 
         [HttpGet]

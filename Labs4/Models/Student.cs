@@ -7,7 +7,7 @@ namespace Labs4.Models
     {
 
         public int? Id { get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public int? Age { get; set; }
 
         public static IList<Student> All = new List<Student>()

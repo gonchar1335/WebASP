@@ -15,6 +15,7 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.cs
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.RazorAssemblyInfo.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.RazorAssemblyInfo.cs
+C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.sourcelink.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -95,4 +96,3 @@ C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\refint\WebAp
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.pdb
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.genruntimeconfig.cache
 C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\ref\WebAppMVC.dll
-C:\Users\Anton\source\repos\CSharpWebAsp\WebAppMVC\obj\Debug\net9.0\WebAppMVC.sourcelink.json

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEFC", "WebEFC\WebEFC.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEFCStudent", "WebEFCStudent\WebEFCStudent.csproj", "{6E8856FB-F233-420C-A2DC-5F3A2029450D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRazorEFC", "WebRazorEFC\WebRazorEFC.csproj", "{A44895EF-4ACB-46AB-BD57-6870802EE2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRazorEFCStudent", "WebRazorEFCStudent\WebRazorEFCStudent.csproj", "{1577E873-62FA-4D5C-BEFC-ED401B3B7265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8856FB-F233-420C-A2DC-5F3A2029450D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44895EF-4ACB-46AB-BD57-6870802EE2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44895EF-4ACB-46AB-BD57-6870802EE2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44895EF-4ACB-46AB-BD57-6870802EE2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44895EF-4ACB-46AB-BD57-6870802EE2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1577E873-62FA-4D5C-BEFC-ED401B3B7265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1577E873-62FA-4D5C-BEFC-ED401B3B7265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1577E873-62FA-4D5C-BEFC-ED401B3B7265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1577E873-62FA-4D5C-BEFC-ED401B3B7265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

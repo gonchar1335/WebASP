@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C4162C8-8706-42E5-A1EB-40668A67B7C4}|WebMVCCource\\WebMVCCource.csproj|solutionrelative:webmvccource\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51ECE4C8-CC2D-4F30-947C-077E1324499F}|WebEFC\\WebEFC.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webefc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51ECE4C8-CC2D-4F30-947C-077E1324499F}|WebEFC\\WebEFC.csproj|solutionrelative:webefc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1577E873-62FA-4D5C-BEFC-ED401B3B7265}|WebRazorEFCStudent\\WebRazorEFCStudent.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webrazorefcstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1577E873-62FA-4D5C-BEFC-ED401B3B7265}|WebRazorEFCStudent\\WebRazorEFCStudent.csproj|solutionrelative:webrazorefcstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 1534,
+          "DockedHeight": 1166,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -43,54 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:36:11.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Delete.cshtml",
-              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:36:07.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebMVCCource\\Views\\Student\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCource\\Views\\Student\\Details.cshtml",
-              "RelativeToolTip": "WebMVCCource\\Views\\Student\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T12:36:03.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEFC\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "WebEFC\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebEFC\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "WebEFC\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebRazorEFCStudent\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebRazorEFCStudent\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebRazorEFCStudent\\Models\\Student.cs",
+              "RelativeToolTip": "WebRazorEFCStudent\\Models\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T12:35:23.47Z",
+              "WhenOpened": "2025-09-24T14:14:45.1Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 427,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
