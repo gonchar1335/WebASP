@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMiddleware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23058ba431c9f8abdd4127f77104c3b94c4ebec3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed21fc18aceba7488dec2e99ebfa56e0072d5df6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMiddleware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMiddleware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

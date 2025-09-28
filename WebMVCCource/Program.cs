@@ -17,6 +17,9 @@ if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
 }
+
+//app.UseStatusCodePages();
+// app.UseStatusCodePagesWithReExecute("Home/ErrorEx?statuscode={0}");
 app.UseRouting();
 
 app.UseAuthorization();

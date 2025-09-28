@@ -15,6 +15,8 @@ namespace WebMVCCourseDaoService.Dao
             new Course(6,"GIT", 16)
 
         };
+        IEnumerable<Course> ICourseDao.All { get => Get(); set => throw new NotImplementedException(); }
+
         public Course Add(Course course)
         {
             course.Id = All.Select(x => x.Id).Max() + 1;

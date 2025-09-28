@@ -25,5 +25,12 @@ namespace WebMVCStudentDaoService.Models
             Age = age;
             Address = address;  
         }
+
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            if (Age < 0 || Age > 120)
+                yield return new ValidationResult("Student Age should in [0, 120]");
+            
+        }
     }
 }

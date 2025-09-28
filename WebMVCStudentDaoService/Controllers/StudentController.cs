@@ -19,6 +19,11 @@ namespace WebMVCStudentDaoService.Controllers
             return View(studentDao.Get());
         }
 
+        [Route("searchPerson/{search:minlength(3)}")]
+        public IActionResult Search(string search)
+        {
+            return View("Index", studentDao.All.Where(c => c.Name!.Contains(search, StringComparison.OrdinalIgnoreCase)));
+        }
         // GET: StudentController/Details/5
         public ActionResult Details(int id)
         {

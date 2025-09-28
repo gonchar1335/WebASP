@@ -13,7 +13,7 @@ namespace WebMVCCource.Helpers
             foreach (var student in students)
             {
                 TagBuilder option = new TagBuilder("option");
-                option.InnerHtml.Append(student.Name);
+                option.InnerHtml.Append(student.Name!);
                 select.InnerHtml.AppendHtml(option);
             }
             using var writer = new StringWriter();

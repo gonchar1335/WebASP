@@ -19,6 +19,8 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
+app.MapControllers();
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Course}/{action=Index}/{id?}")

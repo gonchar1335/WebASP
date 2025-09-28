@@ -4,6 +4,8 @@ namespace WebMVCCourseDaoService.Dao
 {
     public interface ICourseDao
     {
+
+        public IEnumerable<Course> All { get; set; }
         public IEnumerable<Course> Get();
         public Course Get(int id);
 

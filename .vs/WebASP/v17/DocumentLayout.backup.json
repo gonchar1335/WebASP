@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1577E873-62FA-4D5C-BEFC-ED401B3B7265}|WebRazorEFCStudent\\WebRazorEFCStudent.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webrazorefcstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1577E873-62FA-4D5C-BEFC-ED401B3B7265}|WebRazorEFCStudent\\WebRazorEFCStudent.csproj|solutionrelative:webrazorefcstudent\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice.test\\coursecontrollermoqtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|solutionrelative:webmvccoursedaoservice.test\\coursecontrollermoqtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\dao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\dao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice.test\\coursecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|solutionrelative:webmvccoursedaoservice.test\\coursecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 1166,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 1566,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,31 +41,83 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Program.cs",
+              "RelativeToolTip": "WebMVCCourseDaoService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:11:19.099Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebRazorEFCStudent\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "WebRazorEFCStudent\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebRazorEFCStudent\\Models\\Student.cs",
-              "RelativeToolTip": "WebRazorEFCStudent\\Models\\Student.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ICourseDao.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
+              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
+              "RelativeToolTip": "WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T14:14:45.1Z",
+              "WhenOpened": "2025-09-28T04:07:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebMVCCourseDaoService\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:50:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
+              "RelativeDocumentMoniker": "WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
+              "RelativeToolTip": "WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:50:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseControllerMoqTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
+              "RelativeDocumentMoniker": "WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
+              "RelativeToolTip": "WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:50:22.751Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 427,
+          "DockedHeight": 514,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

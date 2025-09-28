@@ -12,6 +12,8 @@ namespace WebMVCStudentDaoService.Dao
             new Student(4,"Kirill", 50,"Russia")
         };
 
+        IEnumerable<Student> IStudentDao.All { get => Get(); set => throw new NotImplementedException(); }
+
         public Student Add(Student student)
         {
             student.Id = All.Select(x => x.Id).Max() + 1;
