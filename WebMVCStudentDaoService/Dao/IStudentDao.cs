@@ -4,7 +4,7 @@ namespace WebMVCStudentDaoService.Dao
 {
     public interface IStudentDao
     {
-        public IEnumerable<Student> All { get; set; }
+        public IEnumerable<Student> Allow { get; set; }
         public IEnumerable<Student> Get();
         public Student Get(int? id);
         public IEnumerable<Student> GetByTitle(string title);

@@ -3,24 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice.test\\coursecontrollermoqtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|solutionrelative:webmvccoursedaoservice.test\\coursecontrollermoqtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B2013A-07FE-40ED-8C79-A7DC46952C3C}|DataSecret\\DataSecret.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\datasecret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B2013A-07FE-40ED-8C79-A7DC46952C3C}|DataSecret\\DataSecret.csproj|solutionrelative:datasecret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\AppData\\Roaming\\Microsoft\\UserSecrets\\4e9a58d6-aca6-4432-b0d6-74381e10fe25\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice\\dao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11FC4AA-3517-4925-BEF3-076D4D60259F}|WebMVCCourseDaoService\\WebMVCCourseDaoService.csproj|solutionrelative:webmvccoursedaoservice\\dao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|c:\\users\\anton\\source\\repos\\csharpwebasp\\webmvccoursedaoservice.test\\coursecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D23EC330-31C2-466D-AC7D-4FAA5DA1D168}|WebMVCCourseDaoService.Test\\WebMVCCourseDaoService.Test.csproj|solutionrelative:webmvccoursedaoservice.test\\coursecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anton\\AppData\\Local\\Temp\\00a21470-13ae-478f-a9d7-b681a19ac1f4_CSharpWebASP-1118-master.zip.1f4\\CSharpWebASP-1118-master\\DataSecret\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +19,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 1566,
-          "SelectedChildIndex": 7,
+          "DockedHeight": 1627,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,83 +31,78 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Program.cs",
-              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Program.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Program.cs",
-              "RelativeToolTip": "WebMVCCourseDaoService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T04:11:19.099Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICourseDao.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
-              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
-              "RelativeToolTip": "WebMVCCourseDaoService\\Dao\\ICourseDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T04:07:23.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "WebMVCCourseDaoService\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "WebMVCCourseDaoService\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T03:50:39.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
-              "RelativeDocumentMoniker": "WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
-              "RelativeToolTip": "WebMVCCourseDaoService.Test\\CourseControllerTest.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAADgvzsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T03:50:39.855Z",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Anton\\AppData\\Roaming\\Microsoft\\UserSecrets\\4e9a58d6-aca6-4432-b0d6-74381e10fe25\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4e9a58d6-aca6-4432-b0d6-74381e10fe25\\secrets.json",
+              "ToolTip": "C:\\Users\\Anton\\AppData\\Roaming\\Microsoft\\UserSecrets\\4e9a58d6-aca6-4432-b0d6-74381e10fe25\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\4e9a58d6-aca6-4432-b0d6-74381e10fe25\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T11:02:15.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CourseControllerMoqTest.cs",
-              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
-              "RelativeDocumentMoniker": "WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
-              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
-              "RelativeToolTip": "WebMVCCourseDaoService.Test\\CourseControllerMoqTest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAA7AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\DataSecret\\Program.cs",
+              "RelativeDocumentMoniker": "DataSecret\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\CSharpWebAsp\\DataSecret\\Program.cs",
+              "RelativeToolTip": "DataSecret\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T03:50:22.751Z",
+              "WhenOpened": "2025-10-03T10:59:51.507Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 514,
+          "DockedHeight": 566,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "79ae2c1d-ccfd-40bc-af31-7c9a1e7e5a9f",
+        "Display": 1,
+        "X": 229,
+        "Y": 135,
+        "Width": 1434,
+        "Height": 736,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\AppData\\Local\\Temp\\00a21470-13ae-478f-a9d7-b681a19ac1f4_CSharpWebASP-1118-master.zip.1f4\\CSharpWebASP-1118-master\\DataSecret\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\00a21470-13ae-478f-a9d7-b681a19ac1f4_CSharpWebASP-1118-master.zip.1f4\\CSharpWebASP-1118-master\\DataSecret\\Program.cs",
+              "ToolTip": "C:\\Users\\Anton\\AppData\\Local\\Temp\\00a21470-13ae-478f-a9d7-b681a19ac1f4_CSharpWebASP-1118-master.zip.1f4\\CSharpWebASP-1118-master\\DataSecret\\Program.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\00a21470-13ae-478f-a9d7-b681a19ac1f4_CSharpWebASP-1118-master.zip.1f4\\CSharpWebASP-1118-master\\DataSecret\\Program.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:48:15.751Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             }
           ]
         }

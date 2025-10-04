@@ -19,7 +19,7 @@ namespace WebMVCStudentDaoService.Test
             new Student(6,"Ant", 33,"Russia"),
         };
 
-        public IEnumerable<Student> All { get => students; set => throw new NotImplementedException(); }
+        public IEnumerable<Student> Allow { get => students; set => throw new NotImplementedException(); }
 
         public Student Add(Student course)
         {

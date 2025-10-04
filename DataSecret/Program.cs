@@ -1,0 +1,13 @@
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+
+using IHost host = Host.CreateDefaultBuilder(args)
+    .UseEnvironment("Development")
+    .Build();
+IConfiguration config = host.Services.GetRequiredService<IConfiguration>();
+string? value_1 = config["KeyOne"];
+string? value_2 = config["KeyTwo"];
+
+Console.WriteLine($"KeyOne = {value_1}");
+Console.WriteLine($"KeyTwo = {value_2}");

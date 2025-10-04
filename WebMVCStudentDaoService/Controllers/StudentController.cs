@@ -22,7 +22,7 @@ namespace WebMVCStudentDaoService.Controllers
         [Route("searchPerson/{search:minlength(3)}")]
         public IActionResult Search(string search)
         {
-            return View("Index", studentDao.All.Where(c => c.Name!.Contains(search, StringComparison.OrdinalIgnoreCase)));
+            return View("Index", studentDao.Allow.Where(c => c.Name!.Contains(search, StringComparison.OrdinalIgnoreCase)));
         }
         // GET: StudentController/Details/5
         public ActionResult Details(int id)

@@ -4,7 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.OutputCaching;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 using WebEFC;
 using WebEFC.Models;
 
@@ -13,13 +15,15 @@ namespace WebEFC.Controllers
     public class CoursesController : Controller
     {
         private readonly ApplicationContext _context;
-
-        public CoursesController(ApplicationContext context)
+        private readonly IMemoryCache _memoryCache; 
+        public CoursesController(ApplicationContext context, IMemoryCache memoryCache)
         {
             _context = context;
+            _memoryCache = memoryCache; 
         }
 
         // GET: Courses
+        [OutputCache(Duration = 20,VaryByRouteValueNames = new string[] {"id" })]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Courses.ToListAsync());
@@ -33,13 +37,16 @@ namespace WebEFC.Controllers
                 return NotFound();
             }
 
-            var course = await _context.Courses
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (course == null)
+            Course? course;
+            if (!_memoryCache.TryGetValue(id, out course))
             {
-                return NotFound();
+                course = await _context!.Courses!.FirstOrDefaultAsync(m => m.Id == id)!;
+                if (course == null)
+                {
+                    return NotFound();
+                }
+                _memoryCache.Set(course.Id, course, new MemoryCacheEntryOptions().SetAbsoluteExpiration(TimeSpan.FromMinutes(1)));
             }
-
             return View(course);
         }
 

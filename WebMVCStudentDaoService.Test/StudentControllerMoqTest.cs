@@ -31,7 +31,7 @@ namespace WebMVCStudentDaoService.Test
         {
             var moq = new Mock<IStudentDao>();
 
-            moq.SetupGet(m => m.All).Returns(Students!);
+            moq.SetupGet(m => m.Allow).Returns(Students!);
 
             var stCont = new StudentController(moq.Object);
 

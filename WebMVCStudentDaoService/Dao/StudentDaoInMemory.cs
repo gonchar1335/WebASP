@@ -12,7 +12,7 @@ namespace WebMVCStudentDaoService.Dao
             new Student(4,"Kirill", 50,"Russia")
         };
 
-        IEnumerable<Student> IStudentDao.All { get => Get(); set => throw new NotImplementedException(); }
+        IEnumerable<Student> IStudentDao.Allow { get => Get(); set => throw new NotImplementedException(); }
 
         public Student Add(Student student)
         {
@@ -28,7 +28,7 @@ namespace WebMVCStudentDaoService.Dao
 
         public Student Get(int? id)
         {
-            return All.Where(st => st.Id == id).SingleOrDefault()!;
+            return  All.Where(st => st.Id == id).SingleOrDefault()!;
         }
 
         public IEnumerable<Student> GetByTitle(string name)
